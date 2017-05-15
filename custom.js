@@ -1,0 +1,3 @@
+function publicfun(argument) {
+	// body...
+}
